@@ -28,3 +28,19 @@
 
 /images/instagram.png
   Content-Disposition: inline
+
+/*.png
+  Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
+
+/*.jpg
+  Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
+
+/*.jpeg
+  Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
+
+/*.gif
+  Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
