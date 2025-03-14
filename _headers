@@ -1,46 +1,41 @@
 /*.png
   Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
 
 /*.jpg
   Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
 
 /*.jpeg
   Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
 
 /*.gif
   Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
 
 /images/*.png
   Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
 
 /images/*.jpg
   Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
 
 /images/*.jpeg
   Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
 
 /images/*.gif
   Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
 
 
 /images/facebook.png
   Content-Disposition: inline
+  Cache-Control: public, max-age=31536000
 
 /images/instagram.png
   Content-Disposition: inline
-
-/*.png
-  Content-Disposition: inline
   Cache-Control: public, max-age=31536000
 
-/*.jpg
-  Content-Disposition: inline
-  Cache-Control: public, max-age=31536000
-
-/*.jpeg
-  Content-Disposition: inline
-  Cache-Control: public, max-age=31536000
-
-/*.gif
-  Content-Disposition: inline
-  Cache-Control: public, max-age=31536000
