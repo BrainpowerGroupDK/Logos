@@ -21,3 +21,10 @@
 
 /images/*.gif
   Content-Disposition: inline
+
+
+/images/facebook.png
+  Content-Disposition: inline
+
+/images/instagram.png
+  Content-Disposition: inline
