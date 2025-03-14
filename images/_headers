@@ -9,3 +9,15 @@
 
 /*.gif
   Content-Disposition: inline
+
+/images/*.png
+  Content-Disposition: inline
+
+/images/*.jpg
+  Content-Disposition: inline
+
+/images/*.jpeg
+  Content-Disposition: inline
+
+/images/*.gif
+  Content-Disposition: inline
